@@ -1,2 +1,2 @@
 # TeamOrgWebsiteNoCMS
-Basic HTML/CSS layout of a team website using MaterializeCSS
+Basic HTML/CSS layout of a team website using MaterializeCSS. 
